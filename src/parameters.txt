@@ -1,0 +1,7 @@
+symbol,time,price,volumeDay,volumeSecond,PCI,volumeMinute,4% - 2%,2% - 1%,firstHourLow,
+volumeSecond,10000,100000000
+price,1,12
+time,0,24301
+firstHourLow,-1,-1
+volumeMinute,100000,10000000
+PCI,0.005,0.1
